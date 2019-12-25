@@ -1,3 +1,35 @@
 yes, hello, world!
 I love me
 I love you
+Command 'lks' not found, did you mean:
+
+command 'ls' from deb coreutils
+command 'les' from deb atm-tools
+command 'lrs' from deb lrslib
+command 'lvs' from deb lvm2
+command 'sks' from deb sks
+command 'lksh' from deb mksh
+Command 'lks' not found, did you mean:
+
+  command 'ls' from deb coreutils
+  command 'les' from deb atm-tools
+  command 'lrs' from deb lrslib
+  command 'lvs' from deb lvm2
+  command 'sks' from deb sks
+  command 'lksh' from deb mksh
+  Command 'lks' not found, did you mean:
+
+  command 'ls' from deb coreutils
+  command 'les' from deb atm-tools
+  command 'lrs' from deb lrslib
+  command 'lvs' from deb lvm2
+  command 'sks' from deb sks
+  command 'lksh' from deb mksh
+  Command 'lks' not found, did you mean:
+
+  command 'ls' from deb coreutils
+  command 'les' from deb atm-tools
+  command 'lrs' from deb lrslib
+  command 'lvs' from deb lvm2
+  command 'sks' from deb sks
+  command 'lksh' from deb mksh
